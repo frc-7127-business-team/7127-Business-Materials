@@ -5,5 +5,6 @@ The purpose of this repository is to provide a single location for efficient ver
 * Business Plan
 * Logistics Planning
 * Financial Documentation
+* Fundraising and Sponsorship Ventures
 
 There is a strong chance that more may be added after in order to keep this repo relevant.
