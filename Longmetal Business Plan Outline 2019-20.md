@@ -37,7 +37,7 @@ If pursuing this, twist your words so you are trying to complete reasoning one.
 * Business / Imagery
   * Pit, shirts, graphics, etc.
   * Travel / FIRST Expenses / Other
-    * Registration, DCMP, Worlds, Travelling, etc.
+    * Registration, DCMP, Worlds, Traveling, etc.
   * Paying of cleaning
   * Fielding the Budget
   * Sponsors
