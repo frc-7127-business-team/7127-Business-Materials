@@ -57,6 +57,7 @@ If pursuing this, twist your words so you are trying to complete reasoning one.
   * Risk Analysis
 * Appendix
 * Budget
+* Travel Finances
 
 ## Resources:
 * [FIRST Robotics Competition - Entrepreneurship Award Criteria](https://www.firstinspires.org/resource-library/frc/awards-based-on-team-attributes)
