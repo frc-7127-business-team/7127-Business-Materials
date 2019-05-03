@@ -16,6 +16,7 @@ Acceptable ways to use the team name are as follows:
 ## Colour Palette:
 All the graphics configurations should obey this standardized colour palette:
 ![The Team #7127 Colour Palette](https://github.com/frc-7127-business-team/7127-Business-Materials/blob/master/Palette7.png)
+
 ## Document Structure:
 ### Internal Documents:
 #### Introduction:
@@ -64,7 +65,7 @@ There should be a Google Docs auto-updating table of contents directly after the
 
 ### Public Documents:
 #### Introduction:
-This sheet is to define the styling with which all other internal documents should mimic.
+This sheet is to define the styling with which all public documents should mimic.
 
 #### Fonts:
 
