@@ -40,5 +40,41 @@ Headers should always be used in descending order within a section.
 #### Page Numbering:
 All pages (including title pages) should be numbered in the bottom right of the page.
 
-#### Table of Contents:
-There should be a Google Docs auto-updating table of contents directly after the Title, this table of contents should be set to show page numbers, not links.
+#### Page Formatting:
+
+##### Title:
+The title should be placed on the first line of the first page and use the "Title" text configuration.
+
+##### Subtitle:
+The subtitle should be placed directly below the title, and should follow the "Subtitle" font configuration.
+
+##### Table of Contents:
+There should be a Google Docs auto-updating table of contents directly after the subtitle, this table of contents should be set to show page numbers, not links.
+
+### Public Documents:
+#### Introduction:
+This sheet is to define the styling with which all other internal documents should mimic.
+
+#### Fonts:
+
+*Font Template*
+
+**Font Family; Typeface; Size; Formatting(Italic, Bold; formatting should reflect name); Alignment; Hex of Color**
+
+* **Title Font:**
+Righteous; Normal; 26pt; Standard; Justified; #4a86e8
+
+* **Subtitle Font:**
+Roboto; Normal; 15pt; *Italic*; Justified; #434343
+
+* **Heading 1:**
+Roboto; Normal; 20pt; Standard; Justified; #000000
+
+* **Heading 2:**
+Roboto; Normal; 16pt; Standard; Justified; #000000
+
+* **Heading 3:**
+Roboto; Normal; 14pt; Standard; Justified; #000000
+
+* **Normal Text:**
+Roboto; Normal; 12pt; Standard; Justified; #000000
