@@ -90,3 +90,22 @@ Roboto; Normal; 14pt; Standard; Justified; #000000
 
 * **Normal Text:**
 Roboto; Normal; 12pt; Standard; Justified; #000000
+
+#### Headers:
+Headers should always be used in descending order within a section.
+
+#### Page Numbering:
+All pages (excluding title pages) should be numbered in the bottom right of the page.
+
+#### Page Formatting:
+
+##### Title:
+The title should be placed on the first line of the first page and use the "Title" text configuration.
+
+##### Subtitle:
+The subtitle should be placed directly below the title, and should follow the "Subtitle" font configuration.
+
+##### Table of Contents:
+There should be a Google Docs auto-updating table of contents on the page after the title page, this table of contents should be set to show page numbers, not links.
+
+---
