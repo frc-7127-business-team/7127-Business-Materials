@@ -3,7 +3,7 @@
 ---
 
 ## Introduction:
-This document serves as a stylesheet to standardize the brand image of FIRST Team #7127; LongMetal Robotics.
+This document serves as a stylesheet to standardize the brand image of FIRST Robotics Competition Team #7127; LongMetal Robotics.
 
 ## Team Name
 Acceptable ways to use the team name are as follows:
@@ -11,7 +11,7 @@ Acceptable ways to use the team name are as follows:
 * FRC #7127
 * LongMetal Robotics
 * Team 7127
-    * Only pronounced "Seventy-one Twenty-seven"
+    * Only pronounced "Seventy-one Twenty-seven" or "Seven One Two Seven".
 
 ## Colour Palette:
 All the graphics configurations should obey this standardized colour palette:
