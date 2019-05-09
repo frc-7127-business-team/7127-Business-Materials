@@ -74,7 +74,7 @@ This sheet is to define the styling with which all public documents should mimic
 **Font Family; Typeface; Size; Formatting(Italic, Bold; formatting should reflect name); Alignment; Hex of Color**
 
 * **Title Font:**
-Righteous; Normal; 26pt; Standard; Justified; #4a86e8
+Roboto; Black; 26pt; **Bold**; Justified; #4a86e8
 
 * **Subtitle Font:**
 Roboto; Normal; 15pt; *Italic*; Justified; #434343
