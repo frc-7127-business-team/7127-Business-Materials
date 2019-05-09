@@ -1,9 +1,10 @@
 # LongMetal Robotics: Branding Guidelines
 ###### Author: Panic
+###### Current Revision: v0.8
 ---
 
 ## Introduction:
-This document serves as a stylesheet to standardize the brand image of FIRST Robotics Competition Team #7127; LongMetal Robotics.
+This document serves as a stylesheet to standardize the brand image of FIRST Robotics Competition Team #7127; LongMetal Robotics. It is to be used in all official internal and public documents, and all should be maintained in all public appearances. Logos and other graphics elements should also follow these guidelines, but they may also have additional specific guidelines outlined below.
 
 ## Team Name
 Acceptable ways to use the team name are as follows:
@@ -26,7 +27,7 @@ This sheet is to define the styling with which all other internal documents shou
 
 *Font Template*
 
-**Font Family; Typeface; Size; Formatting(Italic, Bold; formatting should reflect name); Alignment; Hex of Color**
+**Font Family; Typeface; Size; Formatting(*Italic*, Bold, Underlined, ~~Struckthrough~~; formatting should reflect name); Alignment; Hex of Color**
 
 * **Title Font:**
 Roboto; Black; 26pt; Standard; Centered; #000000
@@ -71,10 +72,10 @@ This sheet is to define the styling with which all public documents should mimic
 
 *Font Template*
 
-**Font Family; Typeface; Size; Formatting(Italic, Bold; formatting should reflect name); Alignment; Hex of Color**
+**Font Family; Typeface; Size; Formatting(*Italic*, Bold, Underlined, ~~Struckthrough~~; formatting should reflect name); Alignment; Hex of Color**
 
 * **Title Font:**
-Roboto; Black; 26pt; **Bold**; Justified; #4a86e8
+Roboto; Black; 26pt; **Bold**; Justified; #1976d2
 
 * **Subtitle Font:**
 Roboto; Normal; 15pt; *Italic*; Justified; #434343
@@ -106,6 +107,6 @@ The title should be placed on the first line of the first page and use the "Titl
 The subtitle should be placed directly below the title, and should follow the "Subtitle" font configuration.
 
 ##### Table of Contents:
-There should be a Google Docs auto-updating table of contents on the page after the title page, this table of contents should be set to show page numbers, not links.
+There should be a Google Docs auto-updating table of contents on the page after the title page, but only if the document is 4 or more pages in length, not including the title page. This table of contents should be set to show page numbers, not links.
 
 ---
